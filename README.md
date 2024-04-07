@@ -1,8 +1,8 @@
-# Repo for the first homework
-
-## Open Source Energy System Modeling SS24 homework 1
+# Repo for Open Source Energy System Modeling SS24 Homework 1
 
 Copyright 2024 Milan Ivanovic
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
