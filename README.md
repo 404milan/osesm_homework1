@@ -1,2 +1,3 @@
-# osesm_homework1
-OSESM Homework 1
+# Repo for the first homework
+
+Open Source Energy System Modeling SS24 homework 1
