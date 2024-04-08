@@ -10,6 +10,13 @@ Energy storage parameters:
 
 * Specific power capacity investment cost: 500 EUR/kW
 * Specific energy capacity investment cost: 500 EUR/kW
+* Specific power capacity replacement cost: 100 EUR/kW
+* Specific energy capacity replacement cost: 200 EUR/kW
+
+Functions:
+
+* investment_costs: calculates investment costs of an ess with the above stated parameters.
+* replacement_costs: calculates replacement costs of an ess with the above stated parameters.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
