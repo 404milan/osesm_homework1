@@ -2,7 +2,6 @@
 In this module the functions of utils.py are tested
 """
 import utils
-import math
 
 
 def test_investment_costs():
