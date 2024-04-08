@@ -1,8 +1,15 @@
 # Repo for Open Source Energy System Modeling SS24 Homework 1
 
-Copyright 2024 Milan Ivanovic
+Copyright 2024 Milan Ivanovic 01528180
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+## This collection of programs calculates investment and replacement costs for an energy storage system with 1kW and 1000kWh
+
+Energy storage parameters:
+
+* Specific power capacity investment cost: 500 EUR/kW
+* Specific energy capacity investment cost: 500 EUR/kW
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
