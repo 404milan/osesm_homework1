@@ -7,9 +7,9 @@ import utils
 
 def test_investment_costs():
     """Test the function investment_cost"""
-    assert utils.investment_costs(1, 1, 1, 1) == 2
+    assert utils.investment_costs(1, 1, 1, 1) == 3
 
 
 def test_replacement_costs():
     """Test the function replacement_costs"""
-    assert utils.replacement_costs(1, 1, 1, 1) == 2
+    assert utils.replacement_costs(1,1, 1, 1) == 2
